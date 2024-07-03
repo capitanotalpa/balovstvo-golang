@@ -1,0 +1,8 @@
+go 1.21.1
+
+use ./week1/1.5/visibility
+
+use (
+	./week1/1.7
+	./week1/hw
+)
